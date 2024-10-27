@@ -45,5 +45,4 @@ This repository is part of the **Quantum Computing Mentorship Program Screening 
 ## Conclusion
 This repository demonstrates how noise affects quantum computations and provides methods to mitigate its effects. It highlights the importance of optimizing quantum circuits to reduce gate count and applying noise-aware techniques to achieve accurate results in quantum computing.
 
-For more information, feel free to reach out to the Quantum Computing Mentorship Program coordinators.
 
